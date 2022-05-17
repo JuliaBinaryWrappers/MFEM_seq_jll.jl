@@ -1,0 +1,288 @@
+[[MFEM_seq]]
+arch = "aarch64"
+git-tree-sha1 = "3d3dda672e009995e281e4fbe66240592e58fd64"
+os = "macos"
+
+    [[MFEM_seq.download]]
+    sha256 = "4f39a47cc183a4a6de1b7d95faf14991de2f111881178138a7b12dcbc80fbb19"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.aarch64-apple-darwin.tar.gz"
+[[MFEM_seq]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8c8b4325265c6e3ac50d77e3ba829be9ac93efc8"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "e52867984078237edafeffd17d096113594a02dc13bebe94e51563dee6e37f98"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2899711bdfdfc35d833eff9a953f1eabb5bb1ca9"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "440733d072752e4de3c787bdec55ce8a50a0e40bb1d0f5ecefeed24d00977e1c"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7fefe30d8c0f0c57150eef38d03e0ea49d3bbca4"
+libc = "musl"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "a62630c01cfd1f4904937f6f5e9fb91400de42637cb851e6ce67264f4e9f89c9"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.aarch64-linux-musl-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5820f90b44948135e6526885f474907a8d071a9c"
+libc = "musl"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "ad599c840fa43756a9e5e8ee3923503d5a96bedfdc60aac388931450136757f4"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.aarch64-linux-musl-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cd0cfe4d3ba6d9212c01bd547a6a7497a44e94fa"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "ca747b312af2e606e0cb68ad531e4d6bcdc14e52b21046d3eed9312700bb1065"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "52177408fc516ca2ba335c956f0428edaeac52ec"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "be35921f86be4c008531ef031ded0a6c6969108b74ccea218a880d20de65bdfa"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9b2c4712c4655f6201045f41ceb8241b715c7562"
+libc = "musl"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "14e26fe7fd4fb73e81bba55ff7d2260a3e928964cc1bc153fdc04b9d26727dd9"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8b8d04e7d9420384f1799b7c88dbecdadbdbaf92"
+libc = "musl"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "c214cc4cafeba2e2c799e654803e709f3839e59fb0c4e2783b7f17fd77dd5d66"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e6f300c5743b4e6d6a92a3a6923ddd05cf2dfe0d"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "f84d5c5fd14bd11cf5c3e2f70b99c58bbba474d5c360a3f381101ac19e092f13"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "36146e5b903d14da71dc7ae3fe7864ffa09f38f6"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "ab208a35ddcaeb588660a662fc9be8580f007de48095f55896194c886b16826c"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3bef585165b784ad868ab7b9bbb4bc526544bca1"
+libc = "musl"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "5e795832e9c2ba7adb20ca88ef2bf439bef7c7252e1a030a8216bb7281d5b84c"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d2ea88371da72e44acf6bdae079f59b551ec9e8d"
+libc = "musl"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "8b1e6f43f999ddd2c9b53433acdce61a28882c543744430a3722567257f9549c"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f3da260a97984170c4444ff08632bdc3f403311f"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "835a2cb0807dad8aa18a69c00b12e89960738fe7c20c2b59b5232b1e4f0655cd"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.i686-linux-gnu-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5d825d66194e0d4d214a5d13814d1122e8dc5872"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "4fcf7f85f72785e3da7d8c2cb96272b2f5603a53343931024cbcb5aaed0ae926"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.i686-linux-gnu-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bd7a2ae3af1cea0e62c4717ce6bbcc430cacf6d7"
+libc = "musl"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "5c18a30fd47e97fbecb62ff6193e28be11c31b9a6e89629bc1ee9ea9d21211ee"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.i686-linux-musl-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "52484eafff2a5d86a2d21fe0ec391a66f6c1749a"
+libc = "musl"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "16d954e346cc9c84106f61797c55d17c80bd02beab75e583652da644fc8ed22a"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.i686-linux-musl-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "73af414de1cdd36180c8d650501c89253ea0d6b5"
+os = "windows"
+
+    [[MFEM_seq.download]]
+    sha256 = "d6c3b9672b16a2df403ac7d874de205e784df9b8fecf54c8d977cb522b5ae188"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.i686-w64-mingw32-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35982cdc193ff228b92e848bc7f495fdffdfa032"
+os = "windows"
+
+    [[MFEM_seq.download]]
+    sha256 = "65b2af597e0f6d8e04e66c55a608757eb127719c8a96d70b240ae3071b7def75"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.i686-w64-mingw32-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e99696b6c688cfe74c7eb10f1f2dc17d89b3e7e3"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "f277a037a086dfd4df27d922a1627a24b75ab670b068bec67737a025e57bc376"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "95307b623bac44def5d0798f8a3fb6688500187f"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "4f2d5b7bbec936ad35e3ad17db15811a56747e1608f11c769c84a5c14801d362"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "x86_64"
+git-tree-sha1 = "d3b59f51b9acf2c8f40b698488a89799a83aa0a2"
+os = "macos"
+
+    [[MFEM_seq.download]]
+    sha256 = "0b30cfc3204e2acf863d9f0937ce2ffcf4837b01562a978d765b8d85404834f5"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.x86_64-apple-darwin.tar.gz"
+[[MFEM_seq]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fbc75e687f775e3b8e787a4b0c767467e4f597b6"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "7ec8618fcf6d8caa7291d29d9dbb695178c467ce54b87438b3f26c2b78383c5a"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "820df874853553756f46ac6dc23173c05d8db01a"
+libc = "glibc"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "6df5b8d465e230a9de85e6a9f8af6751f293fd6978dc612ee7badd4074d7eb09"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "642af26b41c8df5d0216123ad872f00d845d76ac"
+libc = "musl"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "1c8038f21f84e6df8c7cd114004cc24cfcd141e4ca3183132c5fc145fab5de15"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.x86_64-linux-musl-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce3ef1bf4a685e9b7b92316209b86b07a115109b"
+libc = "musl"
+os = "linux"
+
+    [[MFEM_seq.download]]
+    sha256 = "8048382e5d8aa2170840a0264825a8a99a6e1b71c2055c63b672a229e54aded0"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.x86_64-linux-musl-cxx11.tar.gz"
+[[MFEM_seq]]
+arch = "x86_64"
+git-tree-sha1 = "9cd8dffc1b5c6270239c422d72ad797379230987"
+os = "freebsd"
+
+    [[MFEM_seq.download]]
+    sha256 = "d0d6a59427ba2b3cea79fdf3b64c6cf26732eba59f2b79f7739557a48ee2f40e"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.x86_64-unknown-freebsd.tar.gz"
+[[MFEM_seq]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f66ea676d986b7e61d2b381334aa769efc50f740"
+os = "windows"
+
+    [[MFEM_seq.download]]
+    sha256 = "70855f8c98a537cd44cff2658bc655c0b5e0748732e2839ddb04b941fe209038"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[MFEM_seq]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9478c76c497676fb09172e682d1c97734ac24a5"
+os = "windows"
+
+    [[MFEM_seq.download]]
+    sha256 = "9f872f051174f9085b865e4776e34c0ab3313916ebd94831fa8c907a639c3c99"
+    url = "https://github.com/JuliaBinaryWrappers/MFEM_seq_jll.jl/releases/download/MFEM_seq-v4.4.0+0/MFEM_seq.v4.4.0.x86_64-w64-mingw32-cxx11.tar.gz"
